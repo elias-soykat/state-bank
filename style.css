@@ -1,6 +1,10 @@
 body{
     padding: 100px;
 }
+.text-center{
+    margin-top: -10px;
+}
+
 .submit-area{
     box-shadow: 5px 5px 10px gray;
     margin-top: 50px;
